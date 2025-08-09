@@ -1,0 +1,6 @@
+{
+  "name": "BRS Adding Machine",
+  "description": "A web-based calculator that mimics the functionality and appearance of a classic 10-key adding machine, complete with a virtual paper tape.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
