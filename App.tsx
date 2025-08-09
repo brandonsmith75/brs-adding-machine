@@ -263,8 +263,8 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center p-4">
-      <div className="w-full max-w-sm mx-auto bg-neutral-800 rounded-lg shadow-[0_20px_25px_-5px_rgba(0,0,0,0.3),_0_8px_10px_-6px_rgba(0,0,0,0.3)] p-4 sm:p-6 space-y-4 border-t-2 border-l-2 border-neutral-700 border-b-2 border-r-2 border-black">
+    <div>
+      <div>
         <h1 className="text-center text-2xl text-neutral-700 select-none font-cursive text-engraved">
           BRS Adding Machine
         </h1>
